@@ -1,5 +1,8 @@
 # Seq2Seq Language Translation (German → English)
 
+## 🚀 Open the Project
+👉 [View full notebook](./seq2seq_language_translation.ipynb)
+
 A deep learning project implementing neural machine translation using an LSTM-based Seq2Seq model in PyTorch.
 
 ## Overview
